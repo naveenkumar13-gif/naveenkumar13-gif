@@ -1,27 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Naveenkumar
-====================================================================================================================================
+# Hi there 👋 I'm Naveen Kumar  
 
-I’m a Frontend Developer passionate about building web apps that are simple, fast, and user-friendly.
------------------------------------------------------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233382ED&size=30&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
-I’m Naveen Kumar, a frontend developer who enjoys adding creativity to code and turning ideas into interactive web experiences. Coding often feels like solving a puzzle — challenging at times, but every problem I overcome makes me stronger and more confident as a developer. My journey has given me a solid foundation in HTML, CSS, JavaScript, React, Next.js, TypeScript, and Tailwind CSS, while I’m currently exploring tools like Zustand for state management, Ant Design for sleek interfaces, and Supabase for backend services. I love building web applications that are clean, scalable, and user-friendly, and debugging has become one of my favorite parts of the process — especially when paired with music that keeps me in the flow. My goal is to keep growing day by day, working on impactful projects, contributing to open-source, and using technology to make a real difference.
+💻 I'm a frontend developer passionate about building web apps.  
+⚡ Sometimes coding feels hard, but solving problems makes me stronger.  
+🚀 Always learning and exploring new tools to improve my craft.  
+ 
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-iota-steel-55.vercel.app/)
-* ✉️  You can contact me at [naveenkumarofficial1316@gmail.com](mailto:naveenkumarofficial1316@gmail.com)
-* 🧠  I'm currently learning zustand , Ant Design , Supabase
-* 👥  I'm looking to collaborate on I’m open to collaborating on web applications that focus on clean UI, scalability, and user experience.
-* 💬  Ask me about For me, coding is not just work — it’s creativity turned into logic.
+---
+
+## 🌐 Connect with me  
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
+  <a href="https://github.com/naveenkumar13-gif" target="_blank" title="Visit my GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/naveen-kumar-6776b4331/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+  </a>
+  <a href="mailto:naveenkumarofficial1316@gmail.com" target="_blank" title="Send me an Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
+  </a>
+  <a href="https://portfolio-iota-steel-55.vercel.app/" target="_blank" title="Check out my Portfolio">
+    <img src="https://img.icons8.com/color/48/000000/internet--v1.png" height="48" alt="Portfolio"/>
+  </a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com//naveenkumar13-gif" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/naveen-kumar-6776b4331" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com//naveenkumar13-gif" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers//naveenkumar13-gif?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
-### Badges
+## 🛠️ Tech Stack  
 
-<a href="https://github.com//naveenkumar13-gif" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/naveenkumar13-gif&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🌐 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="48" alt="Languages" />
+</p>
+
+### ⚛️ Frameworks, Platforms & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" height="48" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
+</p>
+
+### 🛠️ Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Tools" />
+</p>
+
+---
+
+## 🤝 I’m open to collaborating on  
+- Frontend projects using **React, Next.js, TypeScript**  
+- **Web applications** with clean UI & scalability  
+- **Open-source projects** to learn & grow together  
+
+---
+
+## 🎯 Goals  
+📌 Keep improving daily & gain confidence in my domain  
+📌 Work on impactful projects & contribute to open-source  
+
+---
+
+## 🎶 Fun fact  
+I enjoy listening to music while debugging — it keeps me boosted!  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar13-gif&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar13-gif&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=naveenkumar13-gif&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+## 👀 Profile Visitors  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naveenkumar13-gif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visitor Counter" />
+</p>
